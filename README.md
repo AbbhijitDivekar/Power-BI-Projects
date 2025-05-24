@@ -1,4 +1,4 @@
-Power BI Projects Repository
+
 Welcome to the Power BI Projects Repository!
 This repository is a collection of end-to-end Power BI projects, each designed to solve real-world business problems using interactive dashboards, advanced data modeling, and insightful visualizations.
 
